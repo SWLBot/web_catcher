@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\bin\Debug\web_catcher.exe.config
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.Form1.resources
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.Properties.Resources.resources
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\bin\Debug\web_catcher.exe
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\bin\Debug\web_catcher.pdb
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.exe
+C:\Users\admin\Desktop\project\web_catcher\web_catcher\obj\Debug\web_catcher.pdb
